@@ -1,8 +1,8 @@
 {
-    "name": "Peter Cheng Website",
+    "name": "petercheng.web",
     "version": "0.0.1",
     "description": "Personal blog",
-    "author": "Peter Cheng",
+    "author": "Peter Cheng <chengtsztung.peter@gmail.com>",
     "private": true,
     "scripts": {
         "postinstall": "npm install express"
