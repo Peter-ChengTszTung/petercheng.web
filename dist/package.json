@@ -1,0 +1,10 @@
+{
+    "name": "Peter Cheng Website",
+    "version": "0.0.1",
+    "description": "Personal blog",
+    "author": "Peter Cheng",
+    "private": true,
+    "scripts": {
+        "postinstall": "npm install express"
+    }
+}
