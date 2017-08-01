@@ -11,3 +11,8 @@ after_success:
 branches:
   only:
   - production
+cache:
+  directories:
+    - "node_modules"
+env:
+  - NODE_ENV=development
